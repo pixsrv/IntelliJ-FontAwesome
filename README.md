@@ -1,5 +1,7 @@
 # IntelliJ-FontAwesome Plugin
-An IntelliJ plugin containing FontAwesome live templates. 
+An IntelliJ plugin containing FontAwesome live templates.
+
+based on Erik Pragt [bodiam](https://github.com/bodiam) - [intellij-bootstrap3 plugin](https://github.com/bodiam/intellij-bootstrap3)
 
 ## Usage
 start typing `fa-` and select proper template
