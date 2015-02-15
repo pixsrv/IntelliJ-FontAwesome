@@ -8,4 +8,5 @@ press Ctrl+J
 
 ## What's new
 2015-02-15 content incorporated into intellij-bootstrap3 plugin
+
 2015-02-15 initial commit
